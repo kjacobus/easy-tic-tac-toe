@@ -130,17 +130,5 @@ while playing:
     playagain=input("Play again?" )
     if "N" in playagain.upper():
         playing = False
-    
-#    print(f.numb_plays())
-#    print(f.is_won())
-#game.play(1,1)
 
-#game.play(0,1)
-"""game.play(0,0)
-game.play(1,0)
-game.play(1,1)
-game.play(2,1)
-game.play(2,2)
-game.play(0,2)
-f.show_game()"""
 
